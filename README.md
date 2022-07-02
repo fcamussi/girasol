@@ -6,13 +6,13 @@ El conteo de plantas de girasol se realiza mediante modelos de regresión a part
 
 ## Capturas
 
-![screenshot1](https://user-images.githubusercontent.com/75378876/176986446-b894df29-db65-4c27-9a5c-f9be1cf801aa.png)
+![screenshot1](https://user-images.githubusercontent.com/75378876/176992989-09f57342-1a8d-42a3-9367-551aa8e23258.png)
 
-![screenshot2](https://user-images.githubusercontent.com/75378876/176986449-479e3feb-9b25-4efa-b0ec-7543ccdcd853.png)
+![screenshot2](https://user-images.githubusercontent.com/75378876/176992992-e0fbc3d9-0dec-40bb-a94d-3574d7844a22.png)
 
-![screenshot3](https://user-images.githubusercontent.com/75378876/176986451-da5a1398-7c3c-49f9-be13-571aad8ab11a.png)
+![screenshot3](https://user-images.githubusercontent.com/75378876/176992993-514854b1-94a8-4b17-bf1c-8b2aac9d39cc.png)
 
-![screenshot4](https://user-images.githubusercontent.com/75378876/176986452-cba227e9-190c-4684-bbb3-036bc742bff8.png)
+![screenshot4](https://user-images.githubusercontent.com/75378876/176992994-8f557fd7-aa66-40b7-920f-316ca3756911.png)
 
 ## Características
 
