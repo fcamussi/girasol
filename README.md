@@ -6,15 +6,13 @@ El conteo de la cantidad de plantas de girasol se realiza mediante modelos de re
 
 ## Capturas
 
-![1](https://user-images.githubusercontent.com/75378876/176986446-b894df29-db65-4c27-9a5c-f9be1cf801aa.png)
+![screenshot1](https://user-images.githubusercontent.com/75378876/176986446-b894df29-db65-4c27-9a5c-f9be1cf801aa.png)
 
-![2](https://user-images.githubusercontent.com/75378876/176986449-479e3feb-9b25-4efa-b0ec-7543ccdcd853.png)
+![screenshot2](https://user-images.githubusercontent.com/75378876/176986449-479e3feb-9b25-4efa-b0ec-7543ccdcd853.png)
 
-![3](https://user-images.githubusercontent.com/75378876/176986450-ac843eea-b4fe-4a69-82c9-e48b8d750db6.png)
+![screenshot3](https://user-images.githubusercontent.com/75378876/176986451-da5a1398-7c3c-49f9-be13-571aad8ab11a.png)
 
-![4](https://user-images.githubusercontent.com/75378876/176986451-da5a1398-7c3c-49f9-be13-571aad8ab11a.png)
-
-![5](https://user-images.githubusercontent.com/75378876/176986452-cba227e9-190c-4684-bbb3-036bc742bff8.png)
+![screenshot4](https://user-images.githubusercontent.com/75378876/176986452-cba227e9-190c-4684-bbb3-036bc742bff8.png)
 
 ## Características
 
