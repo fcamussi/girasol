@@ -18,7 +18,7 @@ Combina el procesamiento de imágenes digitales con machine learning. El conteo 
 
 ## Características
 
-* Autodetección de la orientación de las hileras
+* Detección y corrección de la orientación de las hileras
 * Detección de cada hilera
 * Estimación de la cantidad de plantas.
 * Zoom y ROI (región de interés) para trabajar más cómodo
@@ -36,5 +36,8 @@ Combina el procesamiento de imágenes digitales con machine learning. El conteo 
 * PIL >= 8.4.0
 * SciPy >= 1.7.3
 
+## Ejecución
 
-
+```
+python main.py
+```
