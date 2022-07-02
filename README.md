@@ -2,7 +2,7 @@
 
 Aplicación para el conteo de plantas de girasol en cultivos en hileras a partir de imágenes UAV.
 
-Combina el procesamiento de imágenes digitales con machine learning. El conteo de la cantidad de plantas de girasol se realiza mediante modelos de regresión a partir de descriptores de forma y tamaño sobre los objetos segmentados como plantas y pueden generase desde la misma aplicación a partir del entrenamiento de conjuntos de puntos marcados sobre los centros de las mismas.
+El conteo de la cantidad de plantas de girasol se realiza mediante modelos de regresión a partir de descriptores de forma y tamaño sobre los objetos segmentados como plantas y pueden generase desde la misma aplicación a partir del entrenamiento de conjuntos de puntos marcados sobre los centros de las plantas.
 
 ## Capturas
 
