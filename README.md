@@ -16,9 +16,9 @@ El conteo de plantas de girasol se realiza mediante modelos de regresión a part
 
 ## Características
 
-* Detección y corrección de la orientación de las hileras
+* Detección y corrección de la orientación de la imagen
 * Detección de cada hilera
-* Estimación de la cantidad de plantas.
+* Estimación de la cantidad de plantas
 * Zoom y ROI (región de interés) para trabajar más cómodo
 * Creación de conjuntos de puntos marcados
 * Entrenamiento de nuevos modelos
