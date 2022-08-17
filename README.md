@@ -12,8 +12,6 @@ El conteo de plantas de girasol se realiza mediante modelos de regresión a part
 
 ![screenshot3](https://user-images.githubusercontent.com/75378876/176992993-514854b1-94a8-4b17-bf1c-8b2aac9d39cc.png)
 
-![screenshot4](https://user-images.githubusercontent.com/75378876/176992994-8f557fd7-aa66-40b7-920f-316ca3756911.png)
-
 ## Características
 
 * Detección y corrección de la orientación de la imagen
