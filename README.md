@@ -21,7 +21,7 @@ Si bien durante el trabajo se probaron diferentes métodos de regresión: Modelo
 
 ![screenshot3](https://user-images.githubusercontent.com/75378876/187995770-99027a5e-ee71-4993-861f-3751acb4cc66.png)
 
-## Características de la aplicación
+## Características
 
 * Detección y corrección de la orientación de la imagen
 * Detección de cada hilera
