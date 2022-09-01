@@ -1,4 +1,4 @@
-# Girasol
+# Conteo de plantas de girasol
 
 Aplicación para el conteo de plantas de girasol en cultivos en hileras a partir de imágenes UAV.
 
@@ -41,6 +41,24 @@ Si bien durante el trabajo se probaron diferentes métodos de regresión: Modelo
 * SciPy >= 1.7.3
 
 ## Ejecución
+
+Para su ejecución sugiero instalar la plataforma de Data Science, Anaconda.
+
+Una vez instalada se recomienda actualizar todos los paquetes a la última versión ejecutando:
+
+```
+conda update --prefix $CONDA_DIR anaconda
+```
+
+donde $CONDA_DIR es el directorio donde fue instalada.
+
+Luego instalar la librería OpenCV ejecutando:
+
+```
+conda install -c conda-forge opencv
+```
+
+Y dado que por defecto Anaconda ya trae el resto de las dependencias, para ejecutar la aplicación sólo basta con ejecutar:
 
 ```
 python main.py
