@@ -44,21 +44,21 @@ Si bien durante el trabajo se probaron diferentes métodos de regresión: Modelo
 
 Para su ejecución sugiero instalar la plataforma de Data Science, Anaconda.
 
-Una vez instalada se recomienda actualizar todos los paquetes a la última versión ejecutando:
+Una vez instalada se recomienda actualizar todos los paquetes a la última versión con el comando:
 
 ```
 conda update --prefix $CONDA_DIR anaconda
 ```
 
-donde $CONDA_DIR es el directorio donde fue instalada.
+donde $CONDA_DIR es el directorio donde fue instalada Anaconda.
 
-Luego instalar la librería OpenCV ejecutando:
+Luego instalar la librería OpenCV con el comando:
 
 ```
 conda install -c conda-forge opencv
 ```
 
-Y dado que por defecto Anaconda ya trae el resto de las dependencias, para ejecutar la aplicación sólo basta con ejecutar:
+Y dado que por defecto Anaconda ya trae el resto de las dependencias, para ejecutar la aplicación sólo basta con ejecutar el comando:
 
 ```
 python main.py
