@@ -19,7 +19,7 @@ Si bien durante el trabajo se probaron diferentes métodos de regresión: Modelo
 
 ![screenshot2](https://user-images.githubusercontent.com/75378876/187995764-ed08b946-d371-41e9-8180-5f5a03db4f79.png)
 
-![screenshot3](https://user-images.githubusercontent.com/75378876/187995770-99027a5e-ee71-4993-861f-3751acb4cc66.png)
+![screenshot3](https://user-images.githubusercontent.com/75378876/196384075-74c40b33-d37a-4251-af9c-5896ae1aa5fa.png)
 
 ## Características
 
